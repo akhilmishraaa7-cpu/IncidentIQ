@@ -1,0 +1,6 @@
+{
+  "name": "IncidentIQ",
+  "description": "Enterprise AI-powered incident investigation, clustering, prioritization, routing, and troubleshooting agent.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
